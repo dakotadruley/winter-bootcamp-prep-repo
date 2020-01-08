@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background: lightcoral;
+}
+header {
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+lead {
+
+}
+
+#special {
+    color: blueviolet;
+    font-size: 25;
+  
+}
+
+footer {
+    margin-bottom: initial;
+}
