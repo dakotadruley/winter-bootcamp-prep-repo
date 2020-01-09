@@ -10,15 +10,26 @@ header {
     font-weight: bolder;
 }
 
-lead {
-
-}
-
 #special {
-    color: blueviolet;
+    color: darkblue;
     font-size: 25;
   
 }
+
+.square {
+    text-align: left;
+    height: 200;
+    width: 200;
+    border-radius: 12px;
+    background: black;
+    color: cornsilk;
+    margin: 0 auto;
+    padding: 15px;
+}
+.square:hover {
+    cursor: pointer;
+}
+
 
 footer {
     margin-bottom: initial;
