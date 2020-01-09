@@ -1,0 +1,40 @@
+* {
+    box-sizing: ;
+    border-box:
+}
+.nametag {
+    width: 500px;
+    height: 350px;
+    border: solid;
+    border-radius: 25px;
+    background-color: red;
+
+}
+
+.front {
+    position: relative;
+    top: 40px;
+    height: 160px;
+    background-color: white;
+    text-align: center;
+    font-size: 5rem;
+    text-transform: uppercase;
+
+}
+.words {
+    color: white;
+    text-transform: uppercase;
+    font-family: Cambria;
+    text-align: center;
+}
+
+.hello {
+    font-size: 70px;
+}
+.my-name-is {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+
+
+}
